@@ -7,7 +7,7 @@ og-url: https://cecile.rottner.fr
 location: Paris, France
 email: cecile.rottner at edf.fr
 picture: img/picture.jpg
-picture-round: false
+picture-round: true
 side-by-side: true
 pronouns: She/Her
 og-picture: https://cecile.rottner.fr/img/picture.jpg
