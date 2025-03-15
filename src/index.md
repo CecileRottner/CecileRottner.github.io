@@ -38,8 +38,8 @@ I obtained my PhD in 2018 from Sorbonne Université, under the supervision of Pi
 # Teaching
 
 - 2024 : ATHENS week at Ecole des Ponts, on European electricity system planning (2050) as a serious game (by numerical simulation)
-- 2024 : Conservatoire National des Arts et Métiers, master MPRO (Electricity production planing and symmetry issues in Integer Programming)
-- Since 2019 : Sorbonne Université, ANDROIDE Master (Electricity production planing and symmetry issues in Integer Programming)
+- 2024 : Conservatoire National des Arts et Métiers, master MPRO (Electricity production planning and symmetry issues in Integer Programming)
+- Since 2019 : Sorbonne Université, ANDROIDE Master (Electricity production planning and symmetry issues in Integer Programming)
 - 2017 - 2018: Sorbonne Université. Teaching assistant for undergraduate computer science courses.
 
 # Community service
