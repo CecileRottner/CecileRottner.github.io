@@ -1,171 +1,47 @@
 ---
-title: Template homepage
-author: Templato Urnehm
-shortbio: PhD student in 👽 science
-description-meta: PhD student in 👽 science
-og-url: https://basicpage.github.io
-location: Some lab, office 777
-email: noreply@noemail.com
-picture: img/profile.png
+title: Cécile Rottner
+author: Cécile Rottner
+shortbio: "Researcher in Combinatorial Optimization at EDF R&D"
+description-meta: "Researcher in Combinatorial Optimization at EDF R&D"
+og-url: https://cecile.rottner.fr
+location: Paris, France
+email: cecile.rottner at edf.fr
+#picture: img/profile.png
 picture-round: false
 side-by-side: true
-pronouns: They/Them
-og-picture: https://basicpage.github.io/img/profile.png
-orcid: 0000-0000-0000-0000
-dblp: https://dblp.org/
-scholar: https://scholar.google.com/
-hal: https://hal.science/
-mastodon: https://lipn.info
-github: basicpage
-gitlab: gitlab
-bitbucket: bitbucket.com
-bluesky: https://bsky.app/
-linkedin: https://www.linkedin.com
+pronouns: She/Her
+#og-picture: https://cecile.rottner.fr/img/profile.png
+orcid: 0000-0002-3783-8371
+#dblp: https://dblp.org/
+scholar: https://scholar.google.fr/citations?user=FPz2waYAAAAJ&hl=fr
+hal: https://hal.science/search/index/q/*/authIdHal_i/1089275
+#mastodon: https://lipn.info
+github: CecileRottner
+#gitlab: gitlab
+#bitbucket: bitbucket.com
+#bluesky: https://bsky.app/
+linkedin: https://www.linkedin.com/in/cecilerottner/
 footer: >-
   Based on the
   [basicpage template](https://github.com/basicpage/basicpage.github.io),
   made to be easy to use! 🎓
 ---
 
-I am a (fake) PhD student, working on 👽 science on all kinds of related topics.
+I work on combinatorial optimization research topics applied to energy management problems at EDF Lab.
 
-My workflow is usually to use <kbd>Ctrl</kbd> + <kbd>C</kbd> /
-<kbd>Ctrl</kbd> + <kbd>V</kbd>. 🫣
 
-> [!NOTE]
-> This website is obviously a fake one, but it's meant to be very easy to use.
-> Just follow the README of the
-> [Github repository](https://github.com/basicpage/basicpage.github.io).
-
-# Publications
-
-## Conference papers
-
-``` json {.paper}
-"title": "Towards automatic academic pages 2",
-"authors": "Templato Urnehm, U. N. Owen, Wan Morotter",
-"venue": "Principles of Awesomeness (PAW)",
-"year": "2024",
-"url": "https://basicpage.github.io"
-```
-
-``` json {.paper}
-"title": "Towards automatic academic pages",
-"authors": "Templato Urnehm, U. N. Owen",
-"venue": "Principles of Awesomeness (PAW)",
-"year": "2023",
-"url": "https://basicpage.github.io",
-"files": [
-  { "text": "Paper", "type": "pdf", "src": "foo.pdf" },
-  { "text": "Bibtex", "type": "bib", "src": "foo.bib" },
-  { "text": "Formalisation", "type": "code", "src": "foo.v" }
-]
-```
-
-## Journal papers
-
-``` yaml {.paper}
-title: Yet another yaml parser 3
-authors: Templato Urnehm
-venue: Proceedings of Nihilism
-year: 2029
-url: https://basicpage.github.io
-files:
-  - text: Paper
-    type: pdf
-    scr: foo.pdf
-  - text: Bibtex
-    type: bib
-    src: foo.bib
-```
-
-``` yaml {.papers}
-papers:
-  - title: Yet another yaml parser 2
-    authors: Templato Urnehm
-    venue: Proceedings of Nihilism
-    year: 2027
-    files:
-      - text: Paper
-        type: pdf
-        scr: foo.pdf
-      - text: Bibtex
-        type: bib
-        src: foo.bib
-  - title: Yet another yaml parser
-    authors: Templato Urnehm
-    venue: Proceedings of Nihilism
-    year: 2025
-    files:
-      - text: Paper
-        type: pdf
-        scr: foo.pdf
-      - text: Bibtex
-        type: bib
-        src: foo.bib
-      - text: Some link
-        type: link
-        src: fake.link.xyz
-      - text: Repo
-        type: git
-        src: github.com
-```
-
-``` json {.paper}
-"title": "How to tame your wagon",
-"authors": "Templato Urnehm",
-"venue": "Journal of Automatic Rejection (JAR)",
-"year": "2022"
-```
-
-## Drafts
-
-``` json {.paper}
-"title": "TBD",
-"authors": "TBD",
-"files": [
-  { "text": "🐱 video", "type": "video", "src": "foo.mov" },
-  { "text": "Poem", "type": "txt", "src": "foo.txt" },
-  { "text": "My picture", "type": "img", "src": "img/profile.png" },
-  { "text": "💣", "type": "zip", "src": "foo.zip" },
-  { "text": "Slides", "type": "slides", "src": "foo.key" },
-  { "text": "Some random file", "src": "foo.rand" }
-]
-```
-
-## Talks
-
-``` json {.papers}
-{
-  "title": "Talk 1",
-  "authors": "Templato Urnehm",
-  "venue": "My room"
-},
-{
-  "title": "Secret talk",
-  "authors": "Templato Urnehm",
-  "year": "1990"
-},
-{
-  "title": "Talk 3",
-  "authors": "Templato Urnehm",
-  "venue": "Don't remember…",
-  "year": "???"
-}
-```
 
 # Education
 
-- I was able to paint with my hands in kindergarten.
-- I went to high school where I studied stuff.
-- Master degree in hand painting.
+I obtained my PhD in 2018 from Sorbonne Université, under the supervision of Pierre Fouilhoux (Sorbonne Université, LIP6) and Pascale Bendotti (EDF R&D). 
 
 # Teaching
 
-- I am teaching the TD sessions on the 👽 science course.
+- 2024 : ATHENS week at Ecole des Ponts, on European electricity system planning (2050) as a serious game (by numerical simulation)
+- 2024 : Conservatoire National des Arts et Métiers, master MPRO (Electricity production planing and symmetry issues in Integer Programming)
+- Since 2019 : Sorbonne Université, ANDROIDE Master (Electricity production planing and symmetry issues in Integer Programming)
+- 2017 - 2018: Sorbonne Université. Teaching assistant for undergraduate computer science courses.
 
 # Community service
 
-- 32 reviews for Journal of Awesomeness.
-- 1 review for a cool conference.
-- PC member of the journal of my school.
+- Since 2024 : Board member of the French Optimization Society (ROADEF)
