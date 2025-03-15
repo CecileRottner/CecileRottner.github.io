@@ -6,11 +6,11 @@ description-meta: "Researcher in Combinatorial Optimization at EDF R&D"
 og-url: https://cecile.rottner.fr
 location: Paris, France
 email: cecile.rottner at edf.fr
-#picture: img/profile.png
+picture: img/picture.jpg
 picture-round: false
 side-by-side: true
 pronouns: She/Her
-#og-picture: https://cecile.rottner.fr/img/profile.png
+og-picture: https://cecile.rottner.fr/img/picture.jpg
 orcid: 0000-0002-3783-8371
 #dblp: https://dblp.org/
 scholar: https://scholar.google.fr/citations?user=FPz2waYAAAAJ&hl=fr
