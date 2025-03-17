@@ -9,7 +9,7 @@ email: cecile.rottner at edf.fr
 picture: img/picture.jpg
 picture-round: false
 side-by-side: true
-pronouns: She/Her
+#pronouns: She/Her
 og-picture: https://cecile.rottner.fr/img/picture.jpg
 orcid: 0000-0002-3783-8371
 #dblp: https://dblp.org/
